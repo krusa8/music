@@ -32,6 +32,7 @@ $$E=mc^2$$
 [A hyperlink (to rmarkdown.rstudio.com)](http://rmarkdown.rstudio.com/)
 
 A horizontal rule (put one below)
+-----
 
 An unordered list:
 - Item 1
