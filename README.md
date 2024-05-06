@@ -1,5 +1,4 @@
 # 4
-Музычка!
 # A first level header
 # A first level header
 ## A second level header
